@@ -9,21 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nryz-fe/create-template.git"
+    "url": "https://github.com/moreorangess/cra-template-vite.git"
   },
-  "homepage": "https://github.com/nryz-fe/create-template",
+  "homepage": "https://github.com/moreorangess/cra-template-vite",
   "keywords": [],
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bin": {
-    "@newrank/create-yz-template-app": "./index.js"
+    "cra-template-vite": "./index.js"
   },
   "files": [
     "index.js",
-    "createTemplate.js",
-    "example.gif"
+    "createTemplateVite.js"
   ],
   "dependencies": {
     "chalk": "^4.1.2",
